@@ -1,0 +1,18 @@
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\Calculadora V2.exe
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\Calculadora V2.deps.json
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\Calculadora V2.runtimeconfig.json
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\Calculadora V2.runtimeconfig.dev.json
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\Calculadora V2.dll
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\ref\Calculadora V2.dll
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\Calculadora V2.pdb
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.csproj.AssemblyReference.cache
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.AssemblyInfo.cs
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.dll
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\ref\Calculadora V2.dll
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.pdb
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.genruntimeconfig.cache
+C:\Users\mathe\Desktop\Calculadora V2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mathe\Desktop\Calculadora V2\obj\Debug\net5.0\Calculadora V2.csproj.CopyComplete
